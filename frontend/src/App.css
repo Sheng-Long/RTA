@@ -1,0 +1,16 @@
+@import 'tailwindcss' layer(utilities);
+@import 'tailwindcss/utilities' layer(utilities);
+
+@theme {
+  --color-bloodRush: #ac2626;
+  --color-blueCharcoal: #262a2d;
+  --color-washedBlack: #222629;
+  --color-sightful: #72a3a4;
+  --color-cottonDown: #efe9d7;
+  --color-blueToYou: #bac0c7;
+  --color-improbable: #6f7377;
+  --color-satinDeepBlack: #1b1e20;
+  --color-ducati: #22A4A8;
+  --color-milkGlass: #f8f6ef;
+}
+
